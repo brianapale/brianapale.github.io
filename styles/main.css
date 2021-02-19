@@ -1,1 +1,31 @@
+body {
+	color: #495057;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 16px;
+}
 
+div {
+	margin: 20px;
+	width: 45vw;
+}
+
+h1 {
+	font-size: 3.5em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+p {
+	font-size: 1.15em;
+}
+a {
+	color: #00296b;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #00296b;
+	color: #ffffff;
+}
